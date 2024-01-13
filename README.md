@@ -17,4 +17,3 @@ This is the repository for the code files of the **Embedded Systems** lecture at
 - Laboratory sessions for hands-on experience
     
 The repository contains a folder with the code to the labs, where all of the theoretical knowledge of the lecture had to be applied. The labs are based on the ARM-​based [TI MSP432 Launchpad](https://www.ti.com/tool/MSP-EXP432E401Y) a state-​of-the-art embedded system development kit featuring a high-​performance low-​power microcontroller.
-# ETH-EmbeddedSystems
